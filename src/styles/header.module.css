@@ -1,0 +1,16 @@
+.header
+{
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color:#63599e;
+    color: #fff;
+}
+
+.responsiveButton {
+    border:0;
+}
+
+.responsiveButton:focus {
+    border:0;
+    box-shadow: none;
+}
